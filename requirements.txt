@@ -1,0 +1,16 @@
+streamlit
+langchain
+langchain-core
+langchain-community
+langchain-mistralai
+langgraph
+mistralai
+python-dotenv
+requests
+beautifulsoup4
+lxml
+tavily-python
+pydantic
+openpyxl
+markdown
+reportlab
